@@ -1,0 +1,140 @@
+body {
+     text-transform: capitalize;
+}
+.a {
+     width: 100%;
+     height: 45%;
+     background-image: url("bg1.jpg");
+     background-size: contain;
+     position: absolute;
+     left: 0px;
+     top: 0px;
+}
+.h {
+     background-color: rgba(0, 255, 255, 0.308);
+     width: 100%;
+     height: 10%;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     position: fixed;
+     z-index: 1;
+}
+.b {
+     position: absolute;
+     left: 3%;
+}
+.d {
+     overflow: hidden;
+}
+.d .e {
+     font-size: 16px;  
+     border: none;
+     outline: none;
+     padding: 14px 16px;
+     background-color: inherit;
+     font-family: inherit;
+     margin: 0;
+     text-decoration: none;
+}
+.d {
+     color: white;
+}
+.e {
+     color: black;
+}
+.e:hover {
+     color: white;
+}
+.h .qq:hover, .d:hover .e {
+     background-color: red;
+     transition: .4s ease-in-out;
+}
+.j {
+     display: none;
+     position: absolute;
+     background-color: #f9f9f9;
+     width: 10%;
+     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+     z-index: 1;
+}
+.j .qq {
+     float: none;
+     color: black;
+     padding: 12px 16px;
+     text-decoration: none;
+     display: block;
+     text-align: center;
+}
+.j .qq:hover {
+     background-color: #ddd;
+     opacity: 1;
+}
+   
+.d:hover .j {
+     display: block;
+     opacity: 1;
+     transition: .7s ease-in-out;
+}
+.j {
+     position: absolute;
+     left: 69%;
+     top: 50px;
+}
+.f {
+     border: none;
+     outline: none;
+     color: white;
+     padding: 14px 16px;
+     text-decoration: none;
+     color: black;
+     position: absolute;
+     top: 5%;
+     left: 90%;
+}
+.f:hover {
+     background-color: red;
+     color: white;
+     transition: .4s ease-in-out;
+}
+.e {
+     position: absolute;
+     left: 70%;
+     top: 5%;
+}
+.c {
+     font-size: 16px;  
+     border: none;
+     outline: none;
+     padding: 14px 16px;
+     font-family: inherit;
+     margin: 0;
+     color: black;
+     text-decoration: none;
+     position: absolute;
+     top: 5%;
+     left: 60%;
+}
+.c:hover {
+     background-color: red;
+     transition: .4s ease-in-out;
+     color: white;
+}
+.g {
+     font-size: 16px;  
+     border: none;
+     outline: none;
+     padding: 14px 16px;
+     font-family: inherit;
+     margin: 0;
+     color: black;
+     text-decoration: none;
+     position: absolute;
+     top: 5%;
+     left: 80%;
+}
+.g:hover {
+     background-color: red;
+     transition: .4s ease-in-out;
+     color: white;
+}
