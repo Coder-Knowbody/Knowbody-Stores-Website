@@ -114,6 +114,7 @@ body {
      position: absolute;
      top: 5%;
      left: 60%;
+     z-index: 1;
 }
 .c:hover {
      background-color: red;
@@ -490,6 +491,258 @@ body {
      display: flex;
      position: relative;
      justify-content: space-around;
-     width: 99%;
+     width: 97%;
      top: 80px;
+}
+.it1 {
+     border: 1px solid transparent;
+     box-shadow: 0px 3px 3px 0px rgba(0,0,0,0.5);
+     width: 20%;
+     height: 300px;
+}
+.iti {
+     width: 60%;
+     height: 100px;
+     position: relative;
+     top: 10px;
+     left: 20%;
+}
+.itp {
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size: 140%;
+     position: relative;
+     top: 20px;
+     left: 18%;
+}
+.ipt2 {
+     font-size: 160%;
+     position: relative;
+     top: 0px;
+     left: 35%;
+}
+.ttest {
+     background-color: rgb(236, 236, 236);
+     width: 86%;
+     height: 44px;
+     position: relative;
+     border-radius: 4px;
+     bottom: 0px;
+     left: 8%;
+     border: 1px solid rgb(0, 255, 255);
+     border-left: none;
+     border-right: none;
+     z-index: 1;
+}
+.itl {
+     background-color: rgb(0, 255, 255);
+     padding: 12px 22px;
+     border: 1px solid transparent;
+     border-radius: 4px;
+     text-decoration: none;
+     color: white;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+}
+.itl:hover {
+     background-color: transparent;
+     border: 1px solid transparent;
+     color: black;
+     transition: .4s ease-in-out;
+}
+.itb {
+     border: 1px solid transparent;
+     padding: 12px 15px;
+     height: 100%;
+     background-color: transparent;
+     border-radius: 4px;
+     text-decoration: none;
+     color: black;
+     width: 55%;
+     position: absolute;
+     top: 0%;
+     right: 0%;
+}
+.itb:hover {
+     background-color: rgb(0, 255, 255);
+     border: none;
+     color: white;
+     transition: .4s ease-in-out;
+}
+.two {
+     display: flex;
+     position: relative;
+     justify-content: space-around;
+     width: 96.3%;
+     top: 180px;
+     height: 400px;
+}
+.it2 {
+     border: 1px solid transparent;
+     box-shadow: 0px 3px 3px 0px rgba(0,0,0,0.5);
+     width: 20%;
+     height: 300px;
+}
+.iti2 {
+     width: 60%;
+     height: 100px;
+     position: relative;
+     top: 10px;
+     left: 20%;
+}
+.itp2I {
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size: 140%;
+     position: relative;
+     top: 20px;
+     left: 35%;
+}
+.iptII {
+     font-size: 160%;
+     position: relative;
+     top: 0px;
+     left: 35%;
+}
+.ttest2 {
+     background-color: rgb(236, 236, 236);
+     width: 86%;
+     height: 44px;
+     position: relative;
+     border-radius: 4px;
+     bottom: 0px;
+     left: 8%;
+     border: 1px solid rgb(0, 255, 255);
+     border-left: none;
+     border-right: none;
+     z-index: 1;
+}
+.itl2 {
+     background-color: rgb(0, 255, 255);
+     padding: 12px 22px;
+     border: 1px solid transparent;
+     border-radius: 4px;
+     text-decoration: none;
+     color: white;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+}
+.itl2:hover {
+     background-color: transparent;
+     border: 1px solid transparent;
+     color: black;
+     transition: .4s ease-in-out;
+}
+.itb2 {
+     border: 1px solid transparent;
+     padding: 12px 15px;
+     height: 100%;
+     background-color: transparent;
+     border-radius: 4px;
+     text-decoration: none;
+     color: black;
+     width: 55%;
+     position: absolute;
+     top: 0%;
+     right: 0%;
+}
+.itb2:hover {
+     background-color: rgb(0, 255, 255);
+     border: none;
+     color: white;
+     transition: .4s ease-in-out;
+}
+.it3 {
+     border: 1px solid transparent;
+     box-shadow: 0px 3px 3px 0px rgba(0,0,0,0.5);
+     width: 20%;
+     height: 300px;
+}
+.iti3 {
+     width: 60%;
+     height: 100px;
+     position: relative;
+     top: 10px;
+     left: 20%;
+}
+.itp2II {
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size: 140%;
+     position: relative;
+     top: 20px;
+     left: 18%;
+}
+.iptIII {
+     font-size: 160%;
+     position: relative;
+     top: 0px;
+     left: 35%;
+}
+.ttest3 {
+     background-color: rgb(236, 236, 236);
+     width: 86%;
+     height: 44px;
+     position: relative;
+     border-radius: 4px;
+     bottom: 0px;
+     left: 8%;
+     border: 1px solid rgb(0, 255, 255);
+     border-left: none;
+     border-right: none;
+     z-index: 1;
+}
+.itl3 {
+     background-color: rgb(0, 255, 255);
+     padding: 12px 22px;
+     border: 1px solid transparent;
+     border-radius: 4px;
+     text-decoration: none;
+     color: white;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+}
+.itl3:hover {
+     background-color: transparent;
+     border: 1px solid transparent;
+     color: black;
+     transition: .4s ease-in-out;
+}
+.itb3 {
+     border: 1px solid transparent;
+     padding: 12px 15px;
+     height: 100%;
+     background-color: transparent;
+     border-radius: 4px;
+     text-decoration: none;
+     color: black;
+     width: 55%;
+     position: absolute;
+     top: 0%;
+     right: 0%;
+}
+.itb3:hover {
+     background-color: rgb(0, 255, 255);
+     border: none;
+     color: white;
+     transition: .4s ease-in-out;
+}
+.ackn {
+     position: absolute;
+     bottom: -90%;
+     left: 0%;
+     background-color: aqua;
+     width: 100%;
+     word-spacing: 0.5em;
+     text-align: center;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     word-spacing: 10px;
+}
+a.acknow {
+     text-decoration: none;
+     color: black;
+}
+a.acknow:hover {
+     color: white;
+     transition: .7s ease-in-out;
 }
