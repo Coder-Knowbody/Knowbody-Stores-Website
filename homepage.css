@@ -1,17 +1,11 @@
 body {
      text-transform: capitalize;
 }
-.a {
-     width: 100%;
-     height: 10%;
-     background-image: url("bg1.jpg");
-     background-size: contain;
-     position: absolute;
-     left: 0px;
-     top: 0px;
-}
 .h {
      background-color: rgba(0, 255, 255, 0.7);
+     background-image: url("bg1.jpg");
+     background-blend-mode: multiply;
+     background-size: contain;
      width: 100%;
      height: 10%;
      position: absolute;
@@ -78,7 +72,7 @@ body {
 }
 .j {
      position: absolute;
-     left: 69%;
+     left: 68.5%;
      top: 50px;
 }
 .f {
@@ -590,18 +584,18 @@ body {
      top: 10px;
      left: 20%;
 }
-.itp2I {
+.itp20I {
      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
      font-size: 140%;
      position: relative;
      top: 20px;
-     left: 35%;
+     left: 38%;
 }
 .iptII {
      font-size: 160%;
      position: relative;
      top: 0px;
-     left: 35%;
+     left: 37%;
 }
 .ttest2 {
      background-color: rgb(236, 236, 236);
@@ -669,13 +663,13 @@ body {
      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
      font-size: 140%;
      position: relative;
-     top: 20px;
-     left: 18%;
+     top: 5px;
+     left: 33%;
 }
 .iptIII {
      font-size: 160%;
      position: relative;
-     top: 0px;
+     top: -17px;
      left: 35%;
 }
 .ttest3 {
@@ -684,7 +678,7 @@ body {
      height: 44px;
      position: relative;
      border-radius: 4px;
-     bottom: 0px;
+     bottom: 17px;
      left: 8%;
      border: 1px solid rgb(0, 255, 255);
      border-left: none;
@@ -744,5 +738,145 @@ a.acknow {
 }
 a.acknow:hover {
      color: white;
+     transition: .2s ease-in-out;
+}
+.itp1II {
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size: 140%;
+     position: relative;
+     top: 20px;
+     left: 15%;
+}
+.ipt1III {
+     font-size: 160%;
+     position: relative;
+     top: 0px;
+     left: 35%;
+}
+.itp3II {
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size: 140%;
+     position: relative;
+     top: 5px;
+     left: 13%;
+}
+.ipt3III {
+     font-size: 160%;
+     position: relative;
+     top: -17px;
+     left: 35%;
+}
+.ttest4 {
+     background-color: rgb(236, 236, 236);
+     width: 86%;
+     height: 44px;
+     position: relative;
+     border-radius: 4px;
+     bottom: 0px;
+     left: 8%;
+     border: 1px solid rgb(0, 255, 255);
+     border-left: none;
+     border-right: none;
+     z-index: 1;
+}
+.itp2I {
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size: 140%;
+     position: relative;
+     top: 20px;
+     left: 6%;
+}
+.bet {
+     overflow: hidden;
+}
+.bet .fi {
+     font-size: 16px;  
+     border: none;
+     outline: none;
+     padding: 14px 16px;
+     background-color: inherit;
+     font-family: inherit;
+     margin: 0;
+     text-decoration: none;
+}
+.bet {
+     color: white;
+}
+.fi {
+     color: black;
+}
+.fi:hover {
+     color: white;
+}
+.h .qd:hover, .bet:hover .fi {
+     background-color: red;
+     transition: .4s ease-in-out;
+}
+.cbet {
+     display: none;
+     position: absolute;
+     background-color: #f9f9f9;
+     width: 10%;
+     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+     z-index: 1;
+}
+.cbet .qd {
+     float: none;
+     color: black;
+     padding: 12px 16px;
+     text-decoration: none;
+     display: block;
+     text-align: center;
+}
+.cbet .qd:hover {
+     background-color: #ddd;
+     opacity: 1;
+}
+   
+.bet:hover .cbet {
+     display: block;
+     opacity: 1;
      transition: .7s ease-in-out;
+}
+.cbet {
+     position: absolute;
+     left: 88.5%;
+     top: 50px;
+}
+.fi {
+     position: absolute;
+     left: 70%;
+     top: 5%;
+}
+.fi {
+     border: none;
+     outline: none;
+     color: white;
+     padding: 14px 16px;
+     text-decoration: none;
+     color: black;
+     position: absolute;
+     top: 5%;
+     left: 90%;
+}
+.fi:hover {
+     background-color: red;
+     color: white;
+     transition: .4s ease-in-out;
+}
+.it1:hover {
+     box-shadow: 0px 5px 7px 0px rgba(0, 0, 0, 0.5);
+     transition: .7s ease-in-out;
+}
+.it2:hover {
+     box-shadow: 0px 5px 7px 0px rgba(0, 0, 0, 0.5);
+     transition: .7s ease-in-out;
+}
+.it3:hover {
+     box-shadow: 0px 5px 7px 0px rgba(0, 0, 0, 0.5);
+     transition: .7s ease-in-out;
+}
+.itp2II {
+     position: relative;
+     left: 15%;
 }
