@@ -72,22 +72,6 @@ body {
      left: 68.5%;
      top: 50px;
 }
-.f {
-     border: none;
-     outline: none;
-     color: white;
-     padding: 14px 16px;
-     text-decoration: none;
-     color: black;
-     position: absolute;
-     top: 5%;
-     left: 90%;
-}
-.f:hover {
-     background-color: red;
-     color: white;
-     transition: .4s ease-in-out;
-}
 .e {
      position: absolute;
      left: 70%;
@@ -854,7 +838,7 @@ a.acknow:hover {
      color: black;
      position: absolute;
      top: 5%;
-     left: 90%;
+     left: 87%;
 }
 .fi:hover {
      background-color: red;
