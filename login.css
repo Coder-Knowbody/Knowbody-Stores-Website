@@ -1,0 +1,155 @@
+body {
+     background-color:  	#5d5038;
+     text-transform: capitalize;
+     cursor: context-menu;
+}
+.whole {
+     height: 65%;
+     width: 70%;
+     height: 70%;
+     top: 15%;
+     position: absolute;
+     left: 15%;
+     background-color: #967f54;
+     border-radius: 4%;
+     box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.3);
+}
+.h1 {
+     background-color:  	#c59b4f;
+     z-index: 1;
+     height: 100%;
+     width: 50%;
+     position: absolute;
+     left: 0%;
+     border-radius: 4% 0% 0% 4%;
+     box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.3);
+}
+.h2 {
+     background-color:  	#f9c76a;
+     z-index: 1;
+     height: 100%;
+     width: 50%;
+     position: absolute;
+     right: 0%;
+     border-radius: 0% 4% 4% 0%;
+     box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.3);
+}
+.p1 {
+     font-size: 180%;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     width: 80%;
+     text-align: center;
+     position: absolute;
+     left: 10%;
+     top: 25%;
+}
+.p2 {
+     font-size: 160%;
+     position: absolute;
+     left: 23%;
+     top: 10%;
+}
+.p3 {
+     font-size: 110%;
+     position: absolute;
+     left: 40%;
+     top: 60%;
+}
+.a1 {
+     border: 1px solid #5d5038;
+     padding: 2% 4%;
+     text-decoration: none;
+     color: black;
+     border-radius: 4%;
+     background-color: transparent;
+     position: absolute;
+     left: 38%;
+     top: 70%;
+}
+.a1:hover {
+     background-color: #f9c76a;
+     transition: .4s ease-in-out;
+     border-color: transparent;
+}
+.p4 {
+     font-size: 110%;
+     position: absolute;
+     bottom: 5%;
+     left: 17%;
+}
+.ackn {
+     color: black;
+     text-decoration: none;
+     cursor: context-menu;
+}
+.ackn:hover {
+     color: #f9c76a;
+     text-decoration: underline;
+     transition: .3s ease-in-out;
+}
+.p5 {
+     font-size: 130%;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     width: 50%;
+     text-align: center;
+     position: absolute;
+     left: 20%;
+     top: 10%;
+}
+.email, .password {
+     width: 35%;
+     padding: 15px 25px;
+     font-size: 95%;
+     background-color: transparent;
+     border: 1px solid #5d5038;
+     border-radius: 4%;
+     transition: .4s ease-in-out;
+}
+.email:hover, .password:hover {
+     background-color: #c59b4f;
+     color: black;
+     border-color: transparent;
+}
+.email:focus, .password:focus {
+     background-color: #c59b4f;
+     color: black;
+     border-color: transparent;
+}
+.email {
+     position: absolute;
+     top: 35%;
+     left: 10%;
+}
+.password {
+     position: absolute;
+     top: 50%;
+     left: 10%;
+}
+.p6 {
+     position: absolute;
+     left: 10%;
+     top: 60%;
+}
+.rem {
+     position: absolute;
+     top: 63.2%;
+     left: 40%;
+     cursor: pointer;
+}
+.sub {
+     border: 1px solid #5d5038;
+     padding: 2% 6%;
+     text-decoration: none;
+     color: black;
+     border-radius: 4%;
+     background-color: transparent;
+     position: absolute;
+     left: 50%;
+     top: 70%;
+     cursor: pointer;
+}
+.sub:hover {
+     background-color: #c59b4f;
+     transition: .4s ease-in-out;
+     border-color: transparent;
+}
