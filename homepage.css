@@ -1,8 +1,9 @@
 body {
      text-transform: capitalize;
+     background-color: rgba(150, 127, 84, 0.5);
 }
 .h {
-     background-color: rgba(0, 255, 255, 0.7);
+     background-color: rgba(93, 80, 56, 0.7);
      width: 100%;
      height: 10%;
      position: absolute;
@@ -13,7 +14,7 @@ body {
 }
 .b {
      position: absolute;
-     left: 3%;
+     left: 8%;
 }
 .d {
      overflow: hidden;
@@ -36,9 +37,16 @@ body {
 }
 .e:hover {
      color: white;
+     background-color: #c59b4f !important;
+}
+.fi:hover {
+     background-color: #c59b4f !important;
+}
+.g:hover {
+     background-color: #c59b4f !important;
 }
 .h .qq:hover, .d:hover .e {
-     background-color: red;
+     background-color: #c59b4f;
      transition: .4s ease-in-out;
 }
 .j {
@@ -92,7 +100,7 @@ body {
      z-index: 1;
 }
 .c:hover {
-     background-color: red;
+     background-color: #c59b4f;
      transition: .4s ease-in-out;
      color: white;
 }
@@ -154,8 +162,8 @@ body {
 .il {
      border: 1px solid transparent;
      padding: 12px 20px;
-     background-color: rgb(0, 255, 255);
-     border-radius: 4px;
+     background-color: #c59b4f;
+     border-radius: 4px 0px 0px 4px;
      text-decoration: none;
      color: white;
      position: absolute;
@@ -176,13 +184,14 @@ body {
      border-radius: 4px;
      text-decoration: none;
      color: black;
-     width: 55%;
+     width: 52%;
      position: absolute;
      top: 0%;
      right: 0%;
+     cursor: pointer;
 }
 .ib:hover {
-     background-color: rgb(0, 255, 255);
+     background-color: #c59b4f;
      border: none;
      color: white;
      transition: .4s ease-in-out;
@@ -191,14 +200,14 @@ body {
      background-color: transparent;
 }
 .test {
-     background-color: rgb(236, 236, 236);
+     background-color: rgba(93, 80, 56, 0.3);
      width: 78%;
      height: 170%;
      position: absolute;
      border-radius: 4px;
      bottom: -350%;
      left: -10%;
-     border: 1px solid rgb(0, 255, 255);
+     border: 1px solid #5d5038;
      border-left: none;
      border-right: none;
 }
@@ -240,7 +249,7 @@ body {
 .i2l {
      border: 1px solid transparent;
      padding: 12px 20px;
-     background-color: rgb(0, 255, 255);
+     background-color: #c59b4f;
      border-radius: 4px;
      text-decoration: none;
      color: white;
@@ -262,13 +271,14 @@ body {
      border-radius: 4px;
      text-decoration: none;
      color: black;
-     width: 55%;
+     width: 52%;
      position: absolute;
      top: 0%;
      right: 0%;
+     cursor: pointer;
 }
 .i2b:hover {
-     background-color: rgb(0, 255, 255);
+     background-color: #c59b4f;
      border: none;
      color: white;
      transition: .4s ease-in-out;
@@ -277,14 +287,14 @@ body {
      background-color: transparent;
 }
 .test2 {
-     background-color: rgb(236, 236, 236);
+     background-color: rgba(93, 80, 56, 0.3);
      width: 78%;
      height: 170%;
      position: absolute;
      border-radius: 4px;
      bottom: -400%;
      left: -10%;
-     border: 1px solid rgb(0, 255, 255);
+     border: 1px solid #5d5038;;
      border-left: none;
      border-right: none;
 }
@@ -327,7 +337,7 @@ body {
 .i3l {
      border: 1px solid transparent;
      padding: 12px 20px;
-     background-color: rgb(0, 255, 255);
+     background-color: #c59b4f;
      border-radius: 4px;
      text-decoration: none;
      color: white;
@@ -349,13 +359,14 @@ body {
      border-radius: 4px;
      text-decoration: none;
      color: black;
-     width: 55%;
+     width: 53%;
      position: absolute;
      top: 0%;
      right: 0%;
+     cursor: pointer;
 }
 .i3b:hover {
-     background-color: rgb(0, 255, 255);
+     background-color: #c59b4f;
      border: none;
      color: white;
      transition: .4s ease-in-out;
@@ -364,14 +375,14 @@ body {
      background-color: transparent;
 }
 .test3 {
-     background-color: rgb(236, 236, 236);
+     background-color: rgba(93, 80, 56, 0.3);
      width: 78%;
      height: 170%;
      position: absolute;
      border-radius: 4px;
      bottom: -470%;
      left: -10%;
-     border: 1px solid rgb(0, 255, 255);
+     border: 1px solid #5d5038;;
      border-left: none;
      border-right: none;
 }
@@ -414,7 +425,7 @@ body {
 .i4l {
      border: 1px solid transparent;
      padding: 12px 20px;
-     background-color: rgb(0, 255, 255);
+     background-color: #c59b4f;
      border-radius: 4px;
      text-decoration: none;
      color: white;
@@ -436,13 +447,14 @@ body {
      border-radius: 4px;
      text-decoration: none;
      color: black;
-     width: 55%;
+     width: 52%;
      position: absolute;
      top: 0%;
      right: 0%;
+     cursor: pointer;
 }
 .i4b:hover {
-     background-color: rgb(0, 255, 255);
+     background-color: #c59b4f;
      border: none;
      color: white;
      transition: .4s ease-in-out;
@@ -451,14 +463,14 @@ body {
      background-color: transparent;
 }
 .test4 {
-     background-color: rgb(236, 236, 236);
+     background-color: rgba(93, 80, 56, 0.3);
      width: 78%;
      height: 170%;
      position: absolute;
      border-radius: 4px;
      bottom: -470%;
      left: -10%;
-     border: 1px solid rgb(0, 255, 255);
+     border: 1px solid #5d5038;;
      border-left: none;
      border-right: none;
 }
@@ -496,20 +508,20 @@ body {
      left: 35%;
 }
 .ttest {
-     background-color: rgb(236, 236, 236);
+     background-color: rgba(93, 80, 56, 0.3);
      width: 86%;
      height: 44px;
      position: relative;
      border-radius: 4px;
      bottom: 0px;
      left: 8%;
-     border: 1px solid rgb(0, 255, 255);
+     border: 1px solid #5d5038;;
      border-left: none;
      border-right: none;
      z-index: 1;
 }
 .itl {
-     background-color: rgb(0, 255, 255);
+     background-color: #c59b4f;
      padding: 12px 22px;
      border: 1px solid transparent;
      border-radius: 4px;
@@ -533,13 +545,14 @@ body {
      border-radius: 4px;
      text-decoration: none;
      color: black;
-     width: 55%;
+     width: 52%;
      position: absolute;
      top: 0%;
      right: 0%;
+     cursor: pointer;
 }
 .itb:hover {
-     background-color: rgb(0, 255, 255);
+     background-color: #c59b4f;
      border: none;
      color: white;
      transition: .4s ease-in-out;
@@ -579,20 +592,20 @@ body {
      left: 37%;
 }
 .ttest2 {
-     background-color: rgb(236, 236, 236);
+     background-color: rgba(93, 80, 56, 0.3);
      width: 86%;
      height: 44px;
      position: relative;
      border-radius: 4px;
      bottom: 0px;
      left: 8%;
-     border: 1px solid rgb(0, 255, 255);
+     border: 1px solid #5d5038;
      border-left: none;
      border-right: none;
      z-index: 1;
 }
 .itl2 {
-     background-color: rgb(0, 255, 255);
+     background-color: #c59b4f;
      padding: 12px 22px;
      border: 1px solid transparent;
      border-radius: 4px;
@@ -616,13 +629,14 @@ body {
      border-radius: 4px;
      text-decoration: none;
      color: black;
-     width: 55%;
+     width: 52%;
      position: absolute;
      top: 0%;
      right: 0%;
+     cursor: pointer;
 }
 .itb2:hover {
-     background-color: rgb(0, 255, 255);
+     background-color: #c59b4f;
      border: none;
      color: white;
      transition: .4s ease-in-out;
@@ -654,20 +668,20 @@ body {
      left: 35%;
 }
 .ttest3 {
-     background-color: rgb(236, 236, 236);
+     background-color: rgba(93, 80, 56, 0.3);
      width: 86%;
      height: 44px;
      position: relative;
      border-radius: 4px;
      bottom: 17px;
      left: 8%;
-     border: 1px solid rgb(0, 255, 255);
+     border: 1px solid #5d5038;;
      border-left: none;
      border-right: none;
      z-index: 1;
 }
 .itl3 {
-     background-color: rgb(0, 255, 255);
+     background-color: #c59b4f;
      padding: 12px 22px;
      border: 1px solid transparent;
      border-radius: 4px;
@@ -691,13 +705,14 @@ body {
      border-radius: 4px;
      text-decoration: none;
      color: black;
-     width: 55%;
+     width: 52%;
      position: absolute;
      top: 0%;
      right: 0%;
+     cursor: pointer;
 }
 .itb3:hover {
-     background-color: rgb(0, 255, 255);
+     background-color: #c59b4f;
      border: none;
      color: white;
      transition: .4s ease-in-out;
@@ -706,7 +721,7 @@ body {
      position: absolute;
      bottom: -90%;
      left: 0%;
-     background-color: aqua;
+     background-color: rgba(93, 80, 56, 0.7);
      width: 100%;
      word-spacing: 0.5em;
      text-align: center;
@@ -748,14 +763,14 @@ a.acknow:hover {
      left: 35%;
 }
 .ttest4 {
-     background-color: rgb(236, 236, 236);
+     background-color: rgba(93, 80, 56, 0.3);
      width: 86%;
      height: 44px;
      position: relative;
      border-radius: 4px;
      bottom: 0px;
      left: 8%;
-     border: 1px solid rgb(0, 255, 255);
+     border: 1px solid #5d5038;;
      border-left: none;
      border-right: none;
      z-index: 1;
@@ -789,8 +804,8 @@ a.acknow:hover {
 .fi:hover {
      color: white;
 }
-.h .qd:hover, .bet:hover .fi {
-     background-color: red;
+.h .qd:hover, .bet:hover, .fi {
+     background-color: #c59b4f;
      transition: .4s ease-in-out;
 }
 .cbet {
@@ -841,7 +856,6 @@ a.acknow:hover {
      left: 87%;
 }
 .fi:hover {
-     background-color: red;
      color: white;
      transition: .4s ease-in-out;
 }
@@ -860,4 +874,13 @@ a.acknow:hover {
 .itp2II {
      position: relative;
      left: 15%;
+}
+.acknow:hover {
+     color: #c59b4f !important;
+}
+.fi:visited {
+     background-color: #c59b4f !important;
+}
+.c:visited, .e:visited, .g:visited {
+     background-color: #c59b4f;
 }

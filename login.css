@@ -114,6 +114,7 @@ body {
      background-color: #c59b4f;
      color: black;
      border-color: transparent;
+     -moz-box-shadow:0;
 }
 .email {
      position: absolute;
@@ -135,6 +136,20 @@ body {
      top: 63.2%;
      left: 40%;
      cursor: pointer;
+     accent-color: #c59b4f;
+}
+.rem:before {
+     border: 1px solid turquoise;
+     width: 50px;
+     height: 50px;
+     background-color: transparent;
+     border-radius: 4px;
+}
+.rem:checked {
+     border-radius: 2px;
+     height: 15px;
+     width: 15px;
+     background-color: #5d5038;
 }
 .sub {
      border: 1px solid #5d5038;

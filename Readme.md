@@ -4,3 +4,4 @@ Finished The Homepage
 Done Homepage corrections
 Perfected Git Pull and Push
 Finished Login Page
+Changed homepage color
