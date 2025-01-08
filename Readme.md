@@ -5,3 +5,4 @@ Done Homepage corrections
 Perfected Git Pull and Push
 Finished Login Page
 Changed homepage color
+Added signup page
