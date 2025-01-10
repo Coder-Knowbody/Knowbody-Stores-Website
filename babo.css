@@ -1,0 +1,109 @@
+.ackn {
+     position: absolute;
+     bottom: -210%;
+}
+#id1 {
+     width: 100%;
+     position: relative;
+     left: -15%;
+}
+#id2 {
+     position: relative;
+     left: -5%;
+}
+#id3 {
+     left: 6%;
+}
+#id4 {
+     left: 17%;
+}
+#id5 {
+     left: 8%;
+}
+#id6 {
+     position: relative;
+     bottom: 0%;
+}
+#id7 {
+     position: relative;
+     bottom: -30%;
+}
+#id9 {
+     position: relative;
+     top: 50%;
+}
+#id8 {
+     position: relative !important;
+     top: 20px !important;
+     left: 10%;
+}
+#id10 {
+     width: 100%;
+     position: relative;
+     left: 2%;
+     font-size: 130%;
+}
+#id11 {
+     width: 100%;
+     font-size: 130%;
+     position: relative;
+     left: 1.5%;
+}
+#id12 {
+     position: relative;
+     top: 3% !important;
+}
+#id13 {
+     position: relative;
+     top: 20px;
+}
+#id14 {
+     position: relative !important;
+     left: 15%;
+}
+#id15 {
+     font-size: 120% !important;
+     position: relative !important;
+     left: 2%;
+}
+#id16 {
+     position: relative !important;
+     left: 2.5%;
+     top: 20px;
+}
+#id17 {
+     position: relative !important;
+     top: 0;
+}
+#id18 {
+     font-size: 130%;
+     text-align: center;
+     position: relative !important;
+     top: 0;
+     left: 0.5%;
+}
+#id19 {
+     position: relative !important;
+     bottom: 20px;
+}
+#id20 {
+     position: relative !important;
+     top: -15px;
+}
+#id21 {
+     position: relative !important;
+     left: 2.5%;
+}
+#id22 {
+     position: relative !important;
+     left: 2%;
+}
+#id23 {
+     text-align: center;
+     position: relative !important;
+     left: 2%;
+}
+#id24 {
+     position: relative !important;
+     bottom: 20px;
+}
