@@ -7,3 +7,4 @@ Finished Login Page
 Changed homepage color
 Added signup page
 Completed bath and body page
+Completed bicycle page
