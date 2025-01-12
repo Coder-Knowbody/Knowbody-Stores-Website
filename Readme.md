@@ -8,3 +8,4 @@ Changed homepage color
 Added signup page
 Completed bath and body page
 Completed bicycle page
+Completed Clothes and jackets section
